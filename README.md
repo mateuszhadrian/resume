@@ -1,11 +1,7 @@
 # Mateusz Hadrian
 
 <img src="./photo/cv_photo04225560.jpg" width="280">
-
-
 ## Frontend Developer (Angular)
-
-  
 
 
 ---
@@ -17,7 +13,7 @@ I've been working as a Frontend Developer since 2020, with a focus on Angular an
 I pay close attention to quality and I naturally approach every feature from the user's perspective - thinking about speed, clarity, and usability, not just correctness. I'm comfortable beyond pure coding too: I take part in code reviews, sprint planning, and direct conversations with business stakeholders.
 
 Since 2025 I've been actively expanding into React/Next.js, independently building fullstack applications with React, Next.js, Supabase, and PostgreSQL - with AI tooling integrated throughout. I hold certifications in Google Cloud Generative AI and 10xDevs Frontend with AI.
-  
+<br>
 
 
 ---
@@ -31,7 +27,7 @@ Since 2025 I've been actively expanding into React/Next.js, independently buildi
 - **Employment type:** B2B contract
 - **Available from:** 18 May 2026
 
-  
+<br>
 
 
 ---
@@ -49,7 +45,7 @@ Since 2025 I've been actively expanding into React/Next.js, independently buildi
 - [Creative & Interests](#creative--interests)
 - [References](#references)
 
-  
+<br>
 
 
 ---
@@ -75,19 +71,19 @@ Since 2025 I've been actively expanding into React/Next.js, independently buildi
 ## Primary Stack
 
 Angular v12-v18 (Signals, Standalone) · TypeScript · RxJS · Nx
-  
+<br>
 
 
 ## Familiar With
 
 Single-spa · Module Federation · SQL
-  
+<br>
 
 
 ## Expanding
 
 React · Next.js · AI tooling
-  
+<br>
 
 
 ---
@@ -149,7 +145,7 @@ Roundshot (Seitz Phototechnik AG, Switzerland) develops high-resolution 360° pa
 - Proposed and implemented a custom cookie consent mechanism as an alternative to a third-party service (Cookiebot) - solution justified to the client and shipped to production.
 - Conducted weekly progress demos and reports directly with the client in English.
 
-  
+<br>
 
 
 ---
@@ -164,7 +160,7 @@ Projects for Credit Suisse (investment banking): maintenance and development of 
 - Developed dashboard views for a wealth management platform serving high-net-worth clients - including data visualizations, statistics, and account overviews using Highcharts.
 - Maintained and extended frontend features within a large cross-functional team, working closely with backend and QA on bug resolution and delivery.
 
-  
+<br>
 
 
 ---
@@ -216,7 +212,7 @@ Wrocław University of Technology | 2007-2012
 - **10xDevs:** Frontend Developer with AI (fullstack app with AI integration, from concept to production)
 - **CodersCamp** - Frontend Bootcamp (React, Redux, JS, HTML5, SCSS, Git) - 2019
 
-  
+<br>
 
 
 ---
@@ -227,7 +223,7 @@ Wrocław University of Technology | 2007-2012
 - **English** - C1 (client communication, demo presentations, international project meetings)
 - **French** - A1
 
-  
+<br>
 
 
 ---
@@ -239,7 +235,7 @@ Wrocław University of Technology | 2007-2012
 - **Music Production:** Active producer with a professional home studio, focused on sound design in Ableton Live.
 - **Travel:** Passionate about exploring new cultures and international environments.
 
-  
+<br>
 
 
 ---
@@ -248,7 +244,7 @@ Wrocław University of Technology | 2007-2012
 
 Available upon request.
 **Reference contact:** Aneta Wilczyńska-Gałęska
-  
+<br>
 
 
 ---
