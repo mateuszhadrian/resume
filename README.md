@@ -5,7 +5,8 @@
 
 ---
 
-## About Me
+<a id="about-me"></a>
+<h2>About Me</h2>
 
 I've been working as a Frontend Developer since 2020, with a focus on Angular and TypeScript - from advanced DI patterns, RxJS, and Signals to microfrontend architecture using Single-spa and Module Federation. Over 6 years of commercial work I've delivered enterprise-grade frontends for clients in energy, finance, and SaaS across the UK, Middle East, and Switzerland, including a large-scale platform built as three separate micro-frontend applications handling complex multi-role workflows.
 
@@ -17,7 +18,8 @@ Since 2025 I've been actively expanding into React/Next.js, independently buildi
 
 ---
 
-## Details
+<a id="details"></a>
+<h2>Details</h2>
 
 - **Email:** [mateusz.hadrian@outlook.com](mailto:mateusz.hadrian@outlook.com)
 - **GitHub:** github.com/mateuszhadrian
@@ -49,7 +51,8 @@ Since 2025 I've been actively expanding into React/Next.js, independently buildi
 
 ---
 
-## Technical Skills
+<a id="technical-skills"></a>
+<h2>Technical Skills</h2>
 
 
 | Area                           | Skills                                                                                                                          |
@@ -67,24 +70,28 @@ Since 2025 I've been actively expanding into React/Next.js, independently buildi
 
 ---
 
-## Primary Stack
+<a id="primary-stack"></a>
+<h2>Primary Stack</h2>
 
 Angular v12-v18 (Signals, Standalone) · TypeScript · RxJS · Nx
-&nbsp;
+<br><br>
 
-## Familiar With
+<a id="familiar-with"></a>
+<h2>Familiar With</h2>
 
 Single-spa · Module Federation · SQL
-&nbsp;
+<br><br>
 
-## Expanding
+<a id="expanding"></a>
+<h2>Expanding</h2>
 
 React · Next.js · AI tooling
-&nbsp;
+<br><br>
 
 ---
 
-## Experience
+<a id="experience"></a>
+<h2>Experience</h2>
 
 ### Xebia Poland / PGS Software sp. z o.o.
 
@@ -173,7 +180,8 @@ Projects for Credit Suisse (investment banking): maintenance and development of 
 
 ---
 
-## Personal Projects
+<a id="personal-projects"></a>
+<h2>Personal Projects</h2>
 
 ### GeoCanvas - Browser-Based Geometric Shape Editor
 
@@ -197,7 +205,8 @@ Generates up to 30 flashcards from user-provided text (1,000-10,000 characters) 
 
 ---
 
-## Education & Certifications
+<a id="education--certifications"></a>
+<h2>Education & Certifications</h2>
 
 **Bachelor of Engineering (B.Eng.)**, Electronics and Telecommunications
 Wrocław University of Technology | 2007-2012
@@ -213,7 +222,8 @@ Wrocław University of Technology | 2007-2012
 
 ---
 
-## Languages
+<a id="languages"></a>
+<h2>Languages</h2>
 
 - **Polish** - Native
 - **English** - C1 (client communication, demo presentations, international project meetings)
@@ -224,7 +234,8 @@ Wrocław University of Technology | 2007-2012
 
 ---
 
-## Creative & Interests
+<a id="creative--interests"></a>
+<h2>Creative & Interests</h2>
 
 - **Content Creation:** Production and post-production of "Na froncie" frontend podcast (Xebia) and employer branding / promotional video content. *(Ableton Live, Izotope RX10, DaVinci Resolve)*
 - **Indie Hacking:** Building and shipping personal apps like 10x Cards (AI), GeoCanvas, and WelderDoc (Konva.js).
@@ -236,7 +247,8 @@ Wrocław University of Technology | 2007-2012
 
 ---
 
-## References
+<a id="references"></a>
+<h2>References</h2>
 
 Available upon request.
 **Reference contact:** Aneta Wilczyńska-Gałęska
