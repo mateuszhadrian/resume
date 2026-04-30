@@ -1,7 +1,6 @@
 # Mateusz Hadrian
-
 <img src="./photo/cv_photo04225560.jpg" width="280">
-## Frontend Developer (Angular)
+<h2>Frontend Developer (Angular)</h2>
 
 
 ---
@@ -22,7 +21,7 @@ Since 2025 I've been actively expanding into React/Next.js, independently buildi
 
 - **Email:** [mateusz.hadrian@outlook.com](mailto:mateusz.hadrian@outlook.com)
 - **GitHub:** github.com/mateuszhadrian
-- **LinkedIn:** linkedin.com/in/mateusz-hadrian-554a1313a
+- **LinkedIn:** [linkedin.com/in/mateusz-hadrian-554a1313a](https://linkedin.com/in/mateusz-hadrian-554a1313a)
 - **Location:** Wrocław, Poland
 - **Employment type:** B2B contract
 - **Available from:** 18 May 2026
