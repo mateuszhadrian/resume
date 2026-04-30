@@ -70,20 +70,17 @@ Since 2025 I've been actively expanding into React/Next.js, independently buildi
 ## Primary Stack
 
 Angular v12-v18 (Signals, Standalone) · TypeScript · RxJS · Nx
-<br>
-
+&nbsp;
 
 ## Familiar With
 
 Single-spa · Module Federation · SQL
-<br>
-
+&nbsp;
 
 ## Expanding
 
 React · Next.js · AI tooling
-<br>
-
+&nbsp;
 
 ---
 
