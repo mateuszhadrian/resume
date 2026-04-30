@@ -1,6 +1,6 @@
 # Mateusz Hadrian
 <img src="./photo/cv_photo04225560.jpg" width="280">
-<h2>Frontend Developer (Angular)</h2>
+<h3>Frontend Developer (Angular)</h3>
 
 
 ---
