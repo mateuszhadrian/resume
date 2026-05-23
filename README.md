@@ -26,7 +26,7 @@ Since 2025 I've been actively expanding into React/Next.js, independently buildi
 - **LinkedIn:** [linkedin.com/in/mateusz-hadrian-554a1313a](https://linkedin.com/in/mateusz-hadrian-554a1313a)
 - **Location:** Wrocław, Poland
 - **Employment type:** B2B contract
-- **Available from:** 18 May 2026
+- **Available from:** 17 June 2026
 
 <br>
 
