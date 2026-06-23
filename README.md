@@ -79,13 +79,13 @@ Angular v12-v18 (Signals, Standalone) · TypeScript · RxJS · Nx
 <a id="familiar-with"></a>
 <h2>Familiar With</h2>
 
-Single-spa · Module Federation · SQL
+Single-spa · Module Federation · SQL · AI tooling
 <br><br>
 
 <a id="expanding"></a>
 <h2>Expanding</h2>
 
-React · Next.js · AI tooling
+React · Next.js · Node.js · Java · AI tooling
 <br><br>
 
 ---
