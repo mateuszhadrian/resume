@@ -12,7 +12,7 @@ I've been working as a Frontend Developer since 2020, with a focus on Angular an
 
 I pay close attention to quality and I naturally approach every feature from the user's perspective - thinking about speed, clarity, and usability, not just correctness. I'm comfortable beyond pure coding too: I take part in code reviews, sprint planning, and direct conversations with business stakeholders.
 
-Since 2025 I've been actively expanding into React/Next.js, independently building fullstack applications with React, Next.js, Supabase, and PostgreSQL - with AI tooling integrated throughout. I hold certifications in Google Cloud Generative AI and 10xDevs Frontend with AI.
+Since 2025 I've been actively expanding into fullstack development. Alongside independently building applications with React, Next.js, Supabase, and PostgreSQL, I am currently deepening my backend capabilities by learning Node.js and Java to gain a comprehensive understanding of end-to-end system architecture. I continuously integrate modern AI tooling into my workflow and hold certifications in Google Cloud Generative AI and 10xDevs Frontend with AI.
 <br>
 
 
