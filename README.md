@@ -21,7 +21,7 @@ Since 2025 I've been actively expanding into fullstack development. Alongside in
 <a id="details"></a>
 <h2>Details</h2>
 
-- **Email:** [mateusz.hadrian@outlook.com](mailto:mateusz.hadrian@outlook.com)
+- **Email:** [mateusz@hadrianm.pl](mailto:mateusz@hadrianm.pl)
 - **GitHub:** github.com/mateuszhadrian
 - **LinkedIn:** [linkedin.com/in/mateusz-hadrian-554a1313a](https://linkedin.com/in/mateusz-hadrian-554a1313a)
 - **Location:** Wrocław, Poland
