@@ -57,7 +57,7 @@ Since 2025 I've been actively expanding into fullstack development. Alongside in
 
 | Area                           | Skills                                                                                                                          |
 | ------------------------------ | ------------------------------------------------------------------------------------------------------------------------------- |
-| **Frontend Engineering**       | Angular (v12-v21, Signals, DI, standalone), React (commercial + ongoing), Next.js, TypeScript, JavaScript ES6+, HTML5, CSS/SCSS |
+| **Frontend Engineering**       | Angular (v12-v22, Signals, DI, standalone), React (commercial + ongoing), Next.js, TypeScript, JavaScript ES6+, HTML5, CSS/SCSS |
 | **State & Data Management**    | RxJS (advanced), Zustand + Immer, @ngneat/query, NgRx, Redux, MobX                                                              |
 | **Architecture & Systems**     | Micro-frontend (Module Federation, Single-spa), Shared Component Libraries, Design Systems, Angular DI patterns                 |
 | **UI & Styling**               | Angular Material, Bootstrap, Tailwind CSS, shadcn/ui, Storybook, Figma (consuming designs + active design clarification)        |
