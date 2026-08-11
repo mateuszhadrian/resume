@@ -10,7 +10,7 @@
 
 I've been working as a Frontend Developer since 2020, with a focus on Angular and TypeScript - from advanced DI patterns, RxJS, and Signals to microfrontend architecture using Single-spa and Module Federation. Over 6 years of commercial work I've delivered enterprise-grade frontends for clients in energy, finance, and SaaS across the UK, Middle East, and Switzerland, including a large-scale platform built as three separate micro-frontend applications handling complex multi-role workflows.
 
-I pay close attention to quality and I naturally approach every feature from the user's perspective - thinking about speed, clarity, and usability, not just correctness. I'm comfortable beyond pure coding too: I take part in code reviews, sprint planning, and direct conversations with business stakeholders.
+I have a solid understanding of reactive programming principles and a strong eye for UI/UX design, applying these aesthetic and technical skills daily. I naturally approach every feature from the user's perspective - thinking about speed, clarity, and usability, not just correctness. I'm comfortable beyond pure coding too: I take part in code reviews, sprint planning, mentoring and onboarding new team members, and direct conversations with business stakeholders.
 
 Since 2025 I've been actively expanding into fullstack development. Alongside independently building applications with React, Next.js, Supabase, and PostgreSQL, I am currently deepening my backend capabilities by learning Node.js and Java to gain a comprehensive understanding of end-to-end system architecture. I continuously integrate modern AI tooling into my workflow and hold certifications in Google Cloud Generative AI and 10xDevs Frontend with AI.
 <br>
@@ -24,9 +24,9 @@ Since 2025 I've been actively expanding into fullstack development. Alongside in
 - **Email:** [mateusz@hadrianm.pl](mailto:mateusz@hadrianm.pl)
 - **GitHub:** github.com/mateuszhadrian
 - **LinkedIn:** [linkedin.com/in/mateusz-hadrian-554a1313a](https://linkedin.com/in/mateusz-hadrian-554a1313a)
-- **Location:** Wrocław, Poland
+- **Location:** Wrocław, Poland Wrocław, Poland (Flexible for local hybrid, or remote + occasional travel if based outside Wrocław)
 - **Employment type:** B2B contract
-- **Available from:** 01 July 2026
+- **Available from:** Available immediately (no notice period)
 
 <br>
 
@@ -93,6 +93,19 @@ React · Next.js · Node.js · Java · AI tooling
 <a id="experience"></a>
 <h2>Experience</h2>
 
+### hadrianm.pl (Own Business)
+
+**Founder & Frontend/Fullstack Developer** | May 2026 - present | B2B
+
+Running an independent web development studio, designing and building custom websites and web applications for private B2B clients.
+- Designing and developing end-to-end web solutions with a strong daily focus on UI/UX aesthetics, ensuring high visual standards and smooth user experiences.
+- Implementing robust testing strategies using Vitest across all commercial client projects.
+- Translating complex business requirements into scalable architectures while independently managing client communication and project delivery.
+
+<br>
+
+---
+
 ### Xebia Poland / PGS Software sp. z o.o.
 
 **Frontend Developer** | Apr 2022 - present | B2B contract (since Jun 2024)
@@ -105,7 +118,8 @@ React · Next.js · Node.js · Java · AI tooling
 
 Large-scale enterprise platform for one of the world's largest energy companies, enabling retired specialists to return to work as expert consultants - covering full request and approval workflows, profile management, integration with an external workflow engine, and an inbox with communication and request management capabilities. The project consisted of three micro-frontend applications in a single repository: an expert registration and profile app (embedded in a recruitment portal), a Line Manager app, and an Inbox module - the latter two embedded in the corporate parent platform. Developed within a cross-functional team of up to 8 (3 frontend, 2 backend, 2 QA).
 
-- Built a comprehensive multi-tab user profile view with two access modes (user/admin) by injecting different API services via Angular Dependency Injection into a single component, eliminating code duplication.
+- Actively onboarded new team members, explaining project architecture, data flows, and team structures to ensure smooth integration.
+- Built a comprehensive multi-tab user profile view and handled complex identity and access management workflows (two access modes: user/admin) by injecting different API services via Angular Dependency Injection, eliminating code duplication.
 - Independently implemented a file management module (documents, certificates, medical records) based on API contracts provided by the backend team.
 - Developed a Category Slider component for the platform's shared component library - animated, with distinct mobile and desktop implementations using container queries and media queries; shipped to production as a component shared across multiple applications.
 - Proactively addressed UX gaps not covered by designs (pagination for large datasets, handling long Arabic names in employee tiles, skeleton loaders, empty states).
@@ -182,6 +196,15 @@ Projects for Credit Suisse (investment banking): maintenance and development of 
 
 <a id="personal-projects"></a>
 <h2>Personal Projects</h2>
+
+### Angular 22 Signals Gallery (TDD)
+
+*Angular 22, TypeScript, Signals, Vitest, TDD*
+GitHub: [github.com/mateuszhadrian/xm-gallery-template](https://github.com/mateuszhadrian/xm-gallery-template)
+
+An infinite scrolling photo gallery application integrating local storage, built strictly using Test-Driven Development (TDD). Created to showcase deep, hands-on expertise with the latest Angular 22 features, particularly standalone components and Signals for reactive state management without RxJS overhead.
+
+---
 
 ### GeoCanvas - Browser-Based Geometric Shape Editor
 
