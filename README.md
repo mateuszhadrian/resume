@@ -73,7 +73,7 @@ Since 2025 I've been actively expanding into fullstack development. Alongside in
 <a id="primary-stack"></a>
 <h2>Primary Stack</h2>
 
-Angular v12-v18 (Signals, Standalone) · TypeScript · RxJS · Nx
+Angular v12-v22 (Signals, Standalone) · TypeScript · RxJS · Nx
 <br><br>
 
 <a id="familiar-with"></a>
